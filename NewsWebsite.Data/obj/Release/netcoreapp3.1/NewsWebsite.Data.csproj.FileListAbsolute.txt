@@ -1,0 +1,17 @@
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Data.deps.json
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Data.runtimeconfig.json
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Data.runtimeconfig.dev.json
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.ViewModels.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.ViewModels.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\obj\Release\netcoreapp3.1\NewsWebsite.Data.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\obj\Release\netcoreapp3.1\NewsWebsite.Data.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\obj\Release\netcoreapp3.1\NewsWebsite.Data.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\obj\Release\netcoreapp3.1\NewsWebsite.Data.csproj.CopyComplete
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\obj\Release\netcoreapp3.1\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\obj\Release\netcoreapp3.1\NewsWebsite.Data.pdb

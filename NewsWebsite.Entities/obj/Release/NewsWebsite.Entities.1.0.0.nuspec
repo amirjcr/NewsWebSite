@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NewsWebsite.Entities</id>
+    <version>1.0.0</version>
+    <authors>NewsWebsite.Entities</authors>
+    <owners>NewsWebsite.Entities</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.Extensions.Identity.Stores" version="3.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Entities\bin\Release\netcoreapp3.1\NewsWebsite.Entities.dll" target="lib\netcoreapp3.1\NewsWebsite.Entities.dll" />
+  </files>
+</package>

@@ -1,0 +1,140 @@
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.deps.json
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CopyComplete
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.json
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.dev.json
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.deps.json
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.json
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.dev.json
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CopyComplete
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.deps.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.dev.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CopyComplete
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.dll
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.deps.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.dev.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CopyComplete
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.deps.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.dev.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CopyComplete
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.deps.json
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.json
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.dev.json
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.dll
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.pdb
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CopyComplete
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite-Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.deps.json
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.json
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.dev.json
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.dll
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.pdb
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CopyComplete
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite-Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.deps.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.runtimeconfig.dev.json
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.ViewModels.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\bin\Debug\netcoreapp2.2\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.csproj.CopyComplete
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy - Copy - Copy - Copy - Copy\NewsWebsite.Data\obj\Debug\netcoreapp2.2\NewsWebsite.Data.pdb

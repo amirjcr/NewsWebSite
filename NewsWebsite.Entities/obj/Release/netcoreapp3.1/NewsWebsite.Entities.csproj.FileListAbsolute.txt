@@ -1,0 +1,8 @@
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Entities\bin\Release\netcoreapp3.1\NewsWebsite.Entities.deps.json
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Entities\bin\Release\netcoreapp3.1\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Entities\bin\Release\netcoreapp3.1\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Entities\obj\Release\netcoreapp3.1\NewsWebsite.Entities.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Entities\obj\Release\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Entities\obj\Release\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Entities\obj\Release\netcoreapp3.1\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Entities\obj\Release\netcoreapp3.1\NewsWebsite.Entities.pdb

@@ -1,0 +1,49 @@
+E:\ASP.NET Core Training\NewsWebsite-2\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.deps.json
+E:\ASP.NET Core Training\NewsWebsite-2\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite-2\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite-2\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite-2\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite-2\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite-2\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite-2\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.deps.json
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite-2 - Copy\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.deps.json
+E:\ASP.NET Core Training\NewsWebsite-2 - Copy\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite-2 - Copy\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite-2 - Copy\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite-2 - Copy\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite-2 - Copy\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite-2 - Copy\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite-2 - Copy\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.deps.json
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite - Copy\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.deps.json
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+C:\Users\AmirHosseinMoradi\Desktop\NewsWebsite\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.deps.json
+C:\Users\AmirHosseinMoradi\Desktop\NewsWebsite\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+C:\Users\AmirHosseinMoradi\Desktop\NewsWebsite\NewsWebsite.Common\bin\Debug\netcoreapp3.1\NewsWebsite.Common.pdb
+C:\Users\AmirHosseinMoradi\Desktop\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.csprojAssemblyReference.cache
+C:\Users\AmirHosseinMoradi\Desktop\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfoInputs.cache
+C:\Users\AmirHosseinMoradi\Desktop\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.AssemblyInfo.cs
+C:\Users\AmirHosseinMoradi\Desktop\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.csproj.CoreCompileInputs.cache
+C:\Users\AmirHosseinMoradi\Desktop\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.dll
+C:\Users\AmirHosseinMoradi\Desktop\NewsWebsite\NewsWebsite.Common\obj\Debug\netcoreapp3.1\NewsWebsite.Common.pdb

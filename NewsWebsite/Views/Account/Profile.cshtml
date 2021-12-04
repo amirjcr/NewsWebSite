@@ -1,0 +1,131 @@
+﻿@model NewsWebsite.ViewModels.Account.UserPanelViewModel
+@using NewsWebsite.Common
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .nav-tabs {
+        background-color: #fff !important;
+        padding: 8px 0px !important;
+    }
+
+    h4, h3 {
+      font-family: "Vazir_Medium",tahoma, sans-serif !important;
+      font-weight: 100 !important;
+    }
+    h4{font-size: 16px !important;}
+    h3{font-size: 18px !important;}
+
+</style>
+
+<div class="container mt-5 mb-5 border">
+    <div id="user-profile-2" class="user-profile p-4">
+        <div class="tabbable">
+            <ul class="nav nav-tabs">
+                <li class="active">
+                    <a class="active show" data-toggle="tab" href="#profile">
+                        <i class="ace-icon fa fa-user"></i>
+                        پروفایل
+                    </a>
+                </li>
+
+                <li>
+                    <a data-toggle="tab" href="#bookmarks">
+                        <i class="ace-icon fa fa-bookmark"></i>
+                        اخبار بوکمارک
+                    </a>
+                </li>
+
+                <li>
+                    <a data-toggle="tab" href="#changePassword">
+                        <i class=" ace-icon fa fa-key"></i>
+                        تغییر کلمه عبور
+                    </a>
+                </li>
+            </ul>
+
+            <div class="tab-content mt-4">
+                <div id="profile" class="tab-pane in active">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-2 text-center">
+                            @if (Model.User.Image != null)
+                            {
+                                <img class="editable img-responsive" src="~/avatars/@Model.User.Image" height="150">
+                            }
+                            else
+                            {
+                                <img class="editable img-responsive" src="~/assets/img/UserPic.png" height="150">
+                            }
+                            <a href="#" class="btn btn-sm btn-block btn-success mt-2">
+                                <i class="ace-icon fa fa-edit bigger-120"></i>
+                                <span class="bigger-110">ویرایش پروفایل</span>
+                            </a>
+                        </div>
+
+                        <div class="col-xs-12 col-sm-9">
+                            <h5 class="text-primary mb-4">
+                                <span class="middle">@Model.User.FirstName @Model.User.LastName</span>
+                            </h5>
+
+                            <div class="profile-user-info">
+                                <div class="profile-info-row">
+                                    <div class="profile-info-name"> نام کاربری </div>
+
+                                    <div class="profile-info-value">
+                                        <span>@Model.User.UserName</span>
+                                    </div>
+                                </div>
+
+                                <div class="profile-info-row">
+                                    <div class="profile-info-name"> ایمیل </div>
+
+                                    <div class="profile-info-value">
+                                        <span>@Model.User.Email</span>
+                                    </div>
+                                </div>
+
+                                <div class="profile-info-row">
+                                    <div class="profile-info-name"> شماره موبایل </div>
+
+                                    <div class="profile-info-value">
+                                        <span>@Model.User.PhoneNumber</span>
+                                    </div>
+                                </div>
+
+                                <div class="profile-info-row">
+                                    <div class="profile-info-name"> تاریخ تولد </div>
+
+                                    <div class="profile-info-value">
+                                        <span>@Model.User.BirthDate.ConvertMiladiToShamsi("yyyy/MM/dd")</span>
+                                    </div>
+                                </div>
+
+                                <div class="profile-info-row">
+                                    <div class="profile-info-name"> تاریخ عضویت </div>
+
+                                    <div class="profile-info-value">
+                                        <span>@Model.User.RegisterDateTime.ConvertMiladiToShamsi("dd MMMM yyyy ساعت HH:mm") </span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="hr hr-8 dotted"></div>
+
+
+                        </div>
+                    </div>
+                </div>
+
+                <div id="bookmarks" class="tab-pane">
+                    @await Html.PartialAsync("_Bookmarks",Model.Bookmarks)
+                </div>
+
+                <div id="changePassword" class="tab-pane">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

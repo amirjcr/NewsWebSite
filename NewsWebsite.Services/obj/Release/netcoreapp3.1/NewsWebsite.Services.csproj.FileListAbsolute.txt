@@ -1,0 +1,17 @@
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.Services.deps.json
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.Services.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.Services.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.Common.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.Data.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.Entities.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.ViewModels.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.Data.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.Common.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.Entities.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\bin\Release\netcoreapp3.1\NewsWebsite.ViewModels.pdb
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\obj\Release\netcoreapp3.1\NewsWebsite.Services.csprojAssemblyReference.cache
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\obj\Release\netcoreapp3.1\NewsWebsite.Services.AssemblyInfoInputs.cache
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\obj\Release\netcoreapp3.1\NewsWebsite.Services.AssemblyInfo.cs
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\obj\Release\netcoreapp3.1\NewsWebsite.Services.csproj.CopyComplete
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\obj\Release\netcoreapp3.1\NewsWebsite.Services.dll
+E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Services\obj\Release\netcoreapp3.1\NewsWebsite.Services.pdb

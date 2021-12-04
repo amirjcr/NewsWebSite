@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\AmirHosseinMoradi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AmirHosseinMoradi\\.nuget\\packages",
+      "G:\\Vs2019\\Visual Stuido 2019\\Shared\\NuGetPackages"
+    ]
+  }
+}

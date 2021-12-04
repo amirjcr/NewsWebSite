@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NewsWebsite.ViewModels</id>
+    <version>1.0.0</version>
+    <authors>NewsWebsite.ViewModels</authors>
+    <owners>NewsWebsite.ViewModels</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="NewsWebsite.Common" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="NewsWebsite.Entities" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.ViewModels\bin\Release\netcoreapp3.1\NewsWebsite.ViewModels.dll" target="lib\netcoreapp3.1\NewsWebsite.ViewModels.dll" />
+  </files>
+</package>

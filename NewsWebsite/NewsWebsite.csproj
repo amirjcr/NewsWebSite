@@ -1,0 +1,144 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NewsWebsite.Common\NewsWebsite.Common.csproj" />
+    <ProjectReference Include="..\NewsWebsite.Data\NewsWebsite.Data.csproj" />
+    <ProjectReference Include="..\NewsWebsite.IocConfig\NewsWebsite.IocConfig.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="wwwroot\avatars\" />
+    <Folder Include="wwwroot\posters\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Areas\Admin\Views\Dashboard\Index.cshtml" />
+    <None Include="Areas\Admin\Views\News\CreateOrUpdate.cshtml" />
+    <None Include="Areas\Admin\Views\News\Index.cshtml" />
+    <None Include="Areas\Admin\Views\News\_DeleteConfirmation.cshtml" />
+    <None Include="Areas\Admin\Views\News\_NewsTable.cshtml" />
+    <None Include="Areas\Admin\Views\News\_SubCategories.cshtml" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\bootstrap-table-locale-all.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\bootstrap-table-locale-all.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\bootstrap-table.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\extensions\export\bootstrap-table-export.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\extensions\export\tableExport.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-af-ZA.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-af-ZA.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ar-SA.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ar-SA.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ca-ES.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ca-ES.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-cs-CZ.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-cs-CZ.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-da-DK.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-da-DK.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-de-DE.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-de-DE.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-el-GR.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-el-GR.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-en-US.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-en-US.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-AR.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-AR.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-CL.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-CL.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-CR.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-CR.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-ES.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-ES.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-MX.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-MX.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-NI.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-NI.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-SP.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-es-SP.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-et-EE.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-et-EE.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-eu-EU.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-eu-EU.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-fa-IR.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-fa-IR.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-fi-FI.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-fi-FI.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-fr-BE.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-fr-BE.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-fr-FR.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-fr-FR.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-he-IL.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-he-IL.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-hr-HR.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-hr-HR.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-hu-HU.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-hu-HU.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-id-ID.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-id-ID.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-it-IT.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-it-IT.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ja-JP.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ja-JP.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ka-GE.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ka-GE.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ko-KR.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ko-KR.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ms-MY.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ms-MY.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-nb-NO.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-nb-NO.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-nl-NL.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-nl-NL.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-pl-PL.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-pl-PL.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-pt-BR.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-pt-BR.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-pt-PT.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-pt-PT.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ro-RO.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ro-RO.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ru-RU.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ru-RU.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-sk-SK.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-sk-SK.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-sv-SE.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-sv-SE.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-th-TH.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-th-TH.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-tr-TR.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-tr-TR.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-uk-UA.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-uk-UA.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ur-PK.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-ur-PK.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-uz-Latn-UZ.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-uz-Latn-UZ.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-vi-VN.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-vi-VN.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-zh-CN.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-zh-CN.min.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-zh-TW.js" />
+    <None Include="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\locale\bootstrap-table-zh-TW.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\CacheFiles\assets\vendor\bootstrap-table\dist\extensions\export\bootstrap-table-export.min.js">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

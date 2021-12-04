@@ -1,0 +1,26 @@
+﻿@model List<NewsWebsite.ViewModels.Category.TreeViewCategory>
+
+<div class="classynav">
+    <ul>
+        <li class="active"><a asp-action="Index" asp-controller="Home">خانه</a></li>
+        @foreach (var item in Model.OrderBy(t=>t.title))
+        {
+            <li>
+                <a href="/Category/@item.id/@item.url">@item.title</a>
+                @if (item.subs.Count() != 0)
+                {
+                    <ul class="dropdown">
+                        @foreach (var sub in item.subs)
+                        {
+                            <li><a href="/Category/@sub.id/@sub.url">@sub.title</a></li>
+                        }
+
+                    </ul>
+                }
+
+            </li>
+        }
+
+        <li><a href="/Videos">ویدیوها</a></li>
+    </ul>
+</div>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NewsWebsite.Data</id>
+    <version>1.0.0</version>
+    <authors>NewsWebsite.Data</authors>
+    <owners>NewsWebsite.Data</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="NewsWebsite.Entities" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="NewsWebsite.ViewModels" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="System.Linq.Dynamic.Core" version="1.0.19" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Data.runtimeconfig.json" target="lib\netcoreapp3.1\NewsWebsite.Data.runtimeconfig.json" />
+    <file src="E:\ASP.NET Core Training\NewsWebsite-Publish\NewsWebsite.Data\bin\Release\netcoreapp3.1\NewsWebsite.Data.dll" target="lib\netcoreapp3.1\NewsWebsite.Data.dll" />
+  </files>
+</package>
